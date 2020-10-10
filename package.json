@@ -1,6 +1,6 @@
 {
   "name": "vhen-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "通用的脚手架vhen-cli",
   "main": "index.js",
   "scripts": {
