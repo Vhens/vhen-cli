@@ -2,12 +2,13 @@
  * @Author: Vhen
  * @Date: 2020-10-09 12:57:56
  * @LastEditors: Vhen
- * @LastEditTime: 2020-10-09 13:00:01
+ * @LastEditTime: 2020-10-10 11:16:07
  * @Description: 
 -->
 #### 使用
 
-> vhen init 安装包 项目名称
+> vhen init 安装包 项目名称 (如 vhen init vue-template my-vue-project)
+
 
 
 #### 添加安装包
@@ -21,3 +22,5 @@
 #### 查看包
 
 > vhen list
+
+
