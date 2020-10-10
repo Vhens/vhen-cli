@@ -2,9 +2,11 @@
  * @Author: Vhen
  * @Date: 2020-10-09 12:57:56
  * @LastEditors: Vhen
- * @LastEditTime: 2020-10-10 11:16:07
+ * @LastEditTime: 2020-10-10 11:29:54
  * @Description: 
 -->
+####  安装 
+> npm i -g vhen-cli
 #### 使用
 
 > vhen init 安装包 项目名称 (如 vhen init vue-template my-vue-project)
