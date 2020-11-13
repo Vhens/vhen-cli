@@ -2,7 +2,7 @@
  * @Author: Vhen
  * @Date: 2020-10-09 12:57:56
  * @LastEditors: Vhen
- * @LastEditTime: 2020-10-10 11:29:54
+ * @LastEditTime: 2020-11-13 17:02:17
  * @Description: 
 -->
 ####  安装 
@@ -24,5 +24,10 @@
 #### 查看包
 
 > vhen list
+
+#### 推荐项目包
+
+- vue-admin-2x  (后台基础框架包)
+- vue-template-2x  (基础框架包)
 
 
