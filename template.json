@@ -2,5 +2,6 @@
   "vue-template-1x": "Vhens/vhen-webpack-template",
   "vue-admin-1x": "Vhens/vhen-vue-admin",
   "vue-admin-2x": "Vhens/vhen-vue-admin-2x",
-  "vue-template-2x": "Vhens/vue-template-2x"
+  "vue-template-2x": "Vhens/vue-template-2x",
+  "vue-m-template-1x": "Vhens/vue-m-template-1x"
 }
